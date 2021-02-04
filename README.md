@@ -2,6 +2,8 @@
 
 ##Sample Home
 
+![Home Page](https://github.com/Mani9723/music-website/blob/master/src/images/home.jpg)
+
 
 
 # Getting Started with Create React App
