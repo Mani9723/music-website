@@ -2,7 +2,7 @@
 
 ## Sample Screenshots
 
-![Home Page](https://github.com/Mani9723/music-website/blob/master/src/images/home.jpg)
+![Home Page](https://github.com/Mani9723/music-website/blob/master/src/images/recording.gif)
 ![Home Page](https://github.com/Mani9723/music-website/blob/master/src/images/strings.jpg)
 
 
